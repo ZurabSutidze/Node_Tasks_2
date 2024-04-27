@@ -1,0 +1,8 @@
+[
+    { "name": "Alice", "age": 28, "isEmployed": true },
+    { "name": "Bob", "age": 35, "isEmployed": false },
+    { "name": "Charlie", "age": 42, "isEmployed": true },
+    { "name": "David", "age": 24, "isEmployed": false },
+    { "name": "Eve", "age": 31, "isEmployed": true }
+  ]
+  
